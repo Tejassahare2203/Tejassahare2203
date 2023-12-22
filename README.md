@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Sahare</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejassahare2203&label=Profile%20views&color=0e75b6&style=flat" alt="tejassahare2203" /> </p>
 
