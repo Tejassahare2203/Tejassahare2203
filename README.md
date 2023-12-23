@@ -1,3 +1,4 @@
+![logo](https://github.com/Tejassahare2203/Tejassahare2203/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner_20231223_074649_0000.png)
 <h1 align="center">Hi 👋, I'm Tejas Sahare</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif"
